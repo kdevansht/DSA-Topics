@@ -23,3 +23,4 @@
 - [ ] [Trie]
 - [ ] [Segment Tree]
 - [ ] [Disjoint Set]
+Bhosad.php
