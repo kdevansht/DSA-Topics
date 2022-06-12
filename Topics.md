@@ -1,4 +1,4 @@
-
+1 Motivation As fumck
 - [ ] [Time Complexity]
 - [ ] [Mathematics]
 - [ ] [Bit Magic]
